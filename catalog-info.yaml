@@ -16,7 +16,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: url:https://github.com/backstage/backstage
-    lighthouse.com/website-url: https://backstage.io
+    lighthouse.com/website-url: https://quarterback.dev.tools.telstra.com/lighthouse/audit/c0d2f7d5-2556-45f6-8d21-db62a92767e0
 spec:
   type: website
   owner: CNCF
